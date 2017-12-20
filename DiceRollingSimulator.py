@@ -12,4 +12,4 @@ while True:
         break
     else:
         d.Random1()
-
+# Dice
