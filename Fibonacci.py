@@ -5,7 +5,7 @@ class Fibonacci(object):
             a,b=b,a+b
         return a
 while True:
-        n1 = input()
+        n1 = input("Enter the Fibonacci number, Press X to Exit:")
         if n1 == 'x' or n1 == 'X':
             break
         else:

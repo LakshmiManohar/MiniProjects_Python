@@ -7,3 +7,5 @@ j = sqr()
 
 t1,t2 = j.square1()
 print(t1,t2)
+
+
